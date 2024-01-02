@@ -5,7 +5,6 @@ Olá, sou Bruce Alves, um entusiasta incansável do desenvolvimento e programaç
 ## Linguagens Atuais
 
 ![Bruce GitHub stats](https://github-readme-stats.vercel.app/api?username=brucespan&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brucespan&hide_progress=false)
 
 
