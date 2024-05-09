@@ -1,6 +1,6 @@
 ## Quem Sou Eu
 
-Olá, sou Bruce Alves, um entusiasta incansável do desenvolvimento e programação. Minha paixão pela criação de soluções inovadoras impulsiona cada linha de código que escrevo. Estou empenhado em explorar novas possibilidades, enfrentar desafios e, acima de tudo, contribuir para um mundo digital mais emocionante e eficiente. Junte-se a mim nesta jornada emocionante onde a criatividade e a tecnologia se encontram para criar algo extraordinário! 🤩
+Olá, sou Bruce Alves, um apaixonado incansável da programação e design. Minha paixão pela criação de soluções inovadoras impulsiona cada design que crio. Estou empenhado em explorar novas possibilidades, enfrentar desafios e, acima de tudo, contribuir para um mundo digital mais emocionante e eficiente. Junte-se a mim nesta jornada emocionante onde a criatividade e a tecnologia se encontram para criar algo extraordinário! 🤩
 
 ## Linguagens Atuais
 
